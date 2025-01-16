@@ -1,0 +1,9 @@
+.navbar-nav{
+  font-size: 20px;
+  font-weight: bold;
+}
+.navbar-nav a{
+  text-decoration:none ;
+  color: black;
+  padding: 10px;
+}
